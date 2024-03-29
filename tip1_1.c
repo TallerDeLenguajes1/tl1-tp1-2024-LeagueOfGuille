@@ -6,7 +6,6 @@ void main (){
     //Declaracion de puntero a una variable tipo entero
     int variable=5;
     int *pvariable = &variable;
-
     printf("\nContenido del puntero: %d",*pvariable);
     printf("\nDireccion de memoria almacenada del puntero: %p",pvariable);
     printf("\nDireccion de memoria de la variable: %p",&variable);
