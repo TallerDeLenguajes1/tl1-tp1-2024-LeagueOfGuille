@@ -3,8 +3,6 @@
 
 void main (){
     printf("Hola mundo");   
-
-
     //Declaracion de puntero a una variable tipo entero
     int variable=5;
     int *pvariable = &variable;
