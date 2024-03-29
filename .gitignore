@@ -1,0 +1,8 @@
+# Ejercicio3
+
+#Ignoro el archivo de prueba
+ignorado.txt
+
+#Ignoro todos los ejecutables
+.exe
+
