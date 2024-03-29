@@ -4,5 +4,8 @@
 ignorado.txt
 
 #Ignoro todos los ejecutables
-.exe
+*.exe   
+#Corregido (faltaba *)
 
+#Ignoro la carpeta creada por VSC
+*.vscode
